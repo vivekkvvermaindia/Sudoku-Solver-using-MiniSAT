@@ -9,16 +9,12 @@ This program is a sudoku solver that will transform a sudoku puzzle (9x9) into a
 Instructions:
 ====================
 
-1) Download the Sudoku.zip file
-
-2) After extraction, run the following command (assuming minisat is installed on the machine, put all files in the core folder of minisat):
+Run the following command (assuming minisat is installed on the machine, put all files in the core folder of minisat):
 
 "python main.py input.txt"
 
 Contents:
 ====================
-
-The submission includes the following files:
 
 main.py 
 --------
