@@ -1,8 +1,4 @@
 # Sudoku-Solver-using-MiniSAT
-============================
-Sudoku Solver using MiniSAT
-============================
-
 Description:
 ====================
 
